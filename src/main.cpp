@@ -139,7 +139,7 @@ void loop(void)
         }
     }
 
-    gfx->setCursor(0, 0);
+    gfx->setCursor(140, 100);
 
     gfx->setTextSize(tsa);
     gfx->setTextColor(RGB565_MAGENTA);
